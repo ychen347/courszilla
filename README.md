@@ -7,7 +7,7 @@ So we will only check in the modifed files in this repository.
 
 for example:
 
-if you change__/edx/app/edxapp/edx-platform/setup.cfg__, please check in a file and folder under <git_root_folder>/edxh with the exact same folder strcutures:
+if you change /edx/app/edxapp/edx-platform/setup.cfg, please check in a file and folder under <git_root_folder>/edxh with the exact same folder strcutures:
 
 For our development environemnt, it looks like :
 
